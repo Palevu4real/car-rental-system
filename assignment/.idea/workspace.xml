@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44fd2f0e-f6cf-4c6f-b2f0-1cb783905448" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="23WAgZ2fg8AS5UWDTmxcnBpg988" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/admin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\assignment\server" />
+      <recent name="C:\xampp\htdocs\assignment\admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\assignment\admin" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44fd2f0e-f6cf-4c6f-b2f0-1cb783905448" name="Default Changelist" comment="" />
+      <created>1641839580550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641839580550</updated>
+      <workItem from="1641839582660" duration="5309000" />
+      <workItem from="1641901150936" duration="2608000" />
+      <workItem from="1641989840021" duration="7989000" />
+      <workItem from="1642063826520" duration="956000" />
+      <workItem from="1642186048503" duration="5448000" />
+      <workItem from="1642247101976" duration="18846000" />
+      <workItem from="1642281602355" duration="3374000" />
+      <workItem from="1642285165377" duration="23836000" />
+      <workItem from="1642325304911" duration="12667000" />
+      <workItem from="1642354130588" duration="7631000" />
+      <workItem from="1642388858374" duration="2778000" />
+      <workItem from="1642392492606" duration="6091000" />
+      <workItem from="1642406652315" duration="16849000" />
+      <workItem from="1642437509460" duration="1988000" />
+      <workItem from="1642440119844" duration="12487000" />
+      <workItem from="1642512659642" duration="272000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1642249813088">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1642249813088" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1642460940016">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1642460940016" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1642189343753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1642189343753" />
+  </component>
+</project>
